@@ -10,7 +10,7 @@ I developed this module for our upcoming artboost app.
 https://artboost.com
 
 
-![Animation](https://raw.githubusercontent.com/doefler/react-native-social-share/master/animation-looping.gif)
+![Animation](https://raw.githubusercontent.com/lukamarin/social-share-react-native/master/animation-looping.gif)
 
 ## Getting started
 
@@ -197,4 +197,4 @@ AppRegistry.registerComponent('ReactNativeSocialShare', () => ReactNativeSocialS
 
 ## Done
 
-![Screenshot](https://raw.githubusercontent.com/doefler/react-native-social-share/master/still.png)
+![Screenshot](https://raw.githubusercontent.com/lukamarin/social-share-react-native/master/still.png)
